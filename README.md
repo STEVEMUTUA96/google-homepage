@@ -1,0 +1,1 @@
+this is simple javascript project to demostrate skills on web page development using HTML/CSS on THE ODIN PROJECT
